@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @unoriginalNameCS
-- 👀 I’m interested in web development, C++ and AI.
+- 👀 I’m passionate about exploring all areas of computer science and software engineering.
 - 🌱 I’m currently studying Computer Science at UNSW.
 - 📫 How to reach me? You can reach me on LinkedIn (upon request). 
 
