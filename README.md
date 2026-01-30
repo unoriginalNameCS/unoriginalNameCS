@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @unoriginalNameCS
 - 👀 I’m passionate about exploring all areas of computer science and software engineering.
-- 🌱 I’m graduated with a Bachelor of Science, Computer Science degree from UNSW.
+- 🌱 I have graduated with a Bachelor of Science, Computer Science degree from UNSW.
 - 📫 How to reach me? You can reach me on LinkedIn (upon request). 
 
 <!---
